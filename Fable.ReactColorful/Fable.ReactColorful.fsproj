@@ -8,7 +8,7 @@
     <Description>Fable bindings for react-colorful</Description>
     <RepositoryUrl>https://github.com/kerams/Fable.ReactColorful</RepositoryUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageTags>fsharp;fable;color</PackageTags>
+    <PackageTags>fsharp;fable;fable-binding;fable-javascript;color</PackageTags>
   </PropertyGroup>
   <PropertyGroup>
     <NpmDependencies>
